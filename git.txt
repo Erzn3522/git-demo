@@ -1,3 +1,5 @@
 Hello world
 feature branch'inde bu satiri yaziyorum
 bu satiri conflict denemesi için yaziyorum
+conflict için yazdığım eş zamanlı satır
+
